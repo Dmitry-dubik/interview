@@ -1,0 +1,348 @@
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<Amenities>
+	<TopAmenityHeader>Amenities</TopAmenityHeader>
+	<TopAmenityList>
+        	<TopAmenityItem class="active">Swimming Pool</TopAmenityItem>
+		<TopAmenityItem class="active">Fitness Center</TopAmenityItem>
+		<TopAmenityItem class="active">Accessible</TopAmenityItem>
+		<TopAmenityItem class="active">Free Parking</TopAmenityItem>
+		<TopAmenityItem class="inactive">Free Airport Shuttle</TopAmenityItem>
+		<TopAmenityItem class="inactive">Free Internet</TopAmenityItem>
+		<TopAmenityItem class="inactive">Pets Allowed</TopAmenityItem>
+		<TopAmenityItem class="inactive">Business Center</TopAmenityItem>
+        </TopAmenityList>
+        <AmenityHeader>Hotel services</AmenityHeader>
+	<AmenityList>
+        	<AmenityItem>Restaurant</AmenityItem>
+        	<AmenityItem>Hair/Beauty Salon</AmenityItem>
+        	<AmenityItem>Convenience Store</AmenityItem>
+        	<AmenityItem>ATM or cash withdraw on site</AmenityItem>
+        	<AmenityItem>Currency exchange service</AmenityItem>
+        	<AmenityItem>Closed-caption TV</AmenityItem>
+        	<AmenityItem>Coffee/tea maker</AmenityItem>
+        	<AmenityItem>Car rental available</AmenityItem>
+        	<AmenityItem>gift/souvenir shop</AmenityItem>
+        	<AmenityItem>Family   Rooms</AmenityItem>
+        	<AmenityItem> Daily 
+        	Housekeeping</AmenityItem>
+        	<AmenityItem>mini bar</AmenityItem>
+        	<AmenityItem>Roll-in shower available</AmenityItem>
+        	<AmenityItem>Electronic room key</AmenityItem>
+        	<AmenityItem>Hot   tub/Whirlpool</AmenityItem>
+        	<AmenityItem>Elevator</AmenityItem>
+        	<AmenityItem>Bar</AmenityItem>
+        </AmenityList>
+        <AmenityStringHeader>Services</AmenityStringHeader>
+	<AmenitiesString>Internet access in public areas, Laundry services, Lever handles on door available, Lowered electrical outlets available, Lowered view port in doors available, Luggage storage, Mobility accessibility available, Non-slip grab bar available, Non-smoking property, On-site accessible restaurants/lounges, Safety chain and/or latch on doors available, Self-closing doors available  	</AmenitiesString>
+	<AmenitiesFromHTML>
+		<div class="pt-4 pb-8 hotel-policies_hotelPoliciesAccordion__1I31E">
+			<div data-reach-accordion="">
+				<div data-reach-accordion-item="" data-state="collapsed">
+					<h3>
+						<button aria-controls="panel--5--0" aria-expanded="false" data-testid="accordion-button" data-reach-accordion-button="" data-state="collapsed" id="button--5--0">
+								<span>Parking</span>
+								<span class="chevron">
+									<svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg" stroke="">
+										<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path>
+									</svg>
+								</span>
+							</button>
+					</h3>
+					<div hidden="" role="region" aria-labelledby="button--5--0" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="collapsed" id="panel--5--0">
+						<div class="border-t">
+							<ul>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Self Parking</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">$30.00</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Valet Parking</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">$40.00</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Secure Parking</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Available</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Covered Parking</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Available</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">In/Out Parking</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Available</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Other Parking Information</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Self parking across street, behind Hog Heaven</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="collapsed">
+					<h3><button aria-controls="panel--5--1" aria-expanded="false" data-testid="accordion-button" data-reach-accordion-button="" data-state="collapsed" id="button--5--1"><span>Pets</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg" stroke=""><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div hidden="" role="region" aria-labelledby="button--5--1" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="collapsed" id="panel--5--1">
+						<div class="border-t">
+							<ul>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Pets Allowed</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Yes</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Pet Policy</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Pets allowed, $100.00 non-refundable fee, 75 lbs maximum</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Service Pets Information</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">When your reservation is submitted, the hotel will be notified that you are traveling with a service animal.</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Max Size</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">Large</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Max Weight</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">75 lbs</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Pet Fee</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">$100.00 Non-refundable</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="open">
+					<h3><button aria-controls="panel--5--2" aria-expanded="true" data-testid="accordion-button" data-reach-accordion-button="" data-state="open" id="button--5--2"><span>WiFi</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div role="region" aria-labelledby="button--5--2" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="open" id="panel--5--2">
+						<div class="font-normal text-lg border-t px-2 py-6">Standard in-room and lobby WiFi $9.95</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="open">
+					<h3><button aria-controls="panel--5--3" aria-expanded="true" data-testid="accordion-button" data-reach-accordion-button="" data-state="open" id="button--5--3"><span>Smoking</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div role="region" aria-labelledby="button--5--3" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="open" id="panel--5--3">
+						<div class="font-normal text-lg border-t px-2 py-6">100% Smoke-free grounds</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="open">
+					<h3><button aria-controls="panel--5--4" aria-expanded="true" data-testid="accordion-button" data-reach-accordion-button="" data-state="open" id="button--5--4"><span>Cancellation</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div role="region" aria-labelledby="button--5--4" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="open" id="panel--5--4">
+						<div class="font-normal text-lg border-t px-2 py-6">Cancellation policies may vary depending on the
+							rate or dates of your reservation. Please refer to your reservation confirmation to verify your
+							cancellation policy. If you need further assistance, call the hotel directly or contact <a
+								href="https://help.hilton.com/s/">customer service</a>. Alternatively, you can <a
+								href="https://www.hilton.com/en/book/reservation/find/">cancel your reservation online</a>.
+						</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="collapsed">
+					<h3><button aria-controls="panel--5--5" aria-expanded="false" data-testid="accordion-button" data-reach-accordion-button="" data-state="collapsed" id="button--5--5"><span>Check-in/Check-out</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg" stroke=""><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div hidden="" role="region" aria-labelledby="button--5--5" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="collapsed" id="panel--5--5">
+						<div class="border-t">
+							<ul>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Check-in</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">4:00 PM</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Check-out</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">11:00 AM</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Minimum Age To Register</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">21</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Late Check-out Fee</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">$75 before 3:00pm. 100% of room rate after 3:00pm.</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="collapsed">
+					<h3><button aria-controls="panel--5--6" aria-expanded="false" data-testid="accordion-button" data-reach-accordion-button="" data-state="collapsed" id="button--5--6"><span>Payment</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg" stroke=""><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div hidden="" role="region" aria-labelledby="button--5--6" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="collapsed" id="panel--5--6">
+						<div class="border-t">
+							<ul>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Currency</span>
+									<span class="block w-full sm:w-1/2 lg:w-2/3">US Dollar</span>
+								</li>
+								<li class="my-4 block sm:flex">
+									<span class="block w-full sm:w-1/2 lg:w-1/3 font-extrabold">Accepted credit cards</span>
+									<ul class="block w-full sm:w-1/2 lg:w-2/3">
+										<li>American Express</li>
+										<li>Carte Blanche</li>
+										<li>China Union Pay</li>
+										<li>Diner's Club</li>
+										<li>Discover</li>
+										<li>MasterCard</li>
+										<li>Visa</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="open">
+					<h3><button aria-controls="panel--5--7" aria-expanded="true" data-testid="accordion-button" data-reach-accordion-button="" data-state="open" id="button--5--7"><span>Face Coverings</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div role="region" aria-labelledby="button--5--7" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="open" id="panel--5--7">
+						<div class="font-normal text-lg border-t px-2 py-6">We ask that you follow all local guidelines and
+							laws with respect to practicing social distancing and wearing a mask in public areas. Please
+							check with local public health and government authorities regarding guidelines or requirements
+							that may be in place for the location of your stay.</div>
+					</div>
+				</div>
+				<div data-reach-accordion-item="" data-state="collapsed">
+					<h3><button aria-controls="panel--5--8" aria-expanded="false" data-testid="accordion-button" data-reach-accordion-button="" data-state="collapsed" id="button--5--8"><span>Resort Fees</span><span class="chevron"><svg viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg" stroke=""><path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M1,15l3-3.5L7,8,1,1"></path></svg></span></button>
+					</h3>
+					<div hidden="" role="region" aria-labelledby="button--5--8" data-testid="accordion-panel"
+						data-reach-accordion-panel="" data-state="collapsed" id="panel--5--8">
+						<div class="font-normal text-lg border-t px-2 py-6">Daily Resort Charge includes: WiFi; 3 hour beach
+							bike &amp; boogie board rental; SpikeBall equipment; $10 to $15 discount off food &amp;
+							beverage; 15% off spa &amp; regular priced gift shop apparel; 1 kids arts &amp; craft activity;
+							1 kids breakfast with purchase of adult buffet.</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</AmenitiesFromHTML>    
+</Amenities>
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+
+    <xsl:template match="/Amenities">
+    
+      <xsl:variable
+        name="uppercase"
+        select="concat('АБВГ', 'ДЕЁЖЗ', 'ИЙКЛ', 'МНОП', 'РСТУ', 'ФХЦЧ', 'ШЩЪЫ', 'ЬЭЮЯ')"
+      />
+      <xsl:variable
+        name="lowercase"
+        select="concat('абвг', 'деёжз', 'ийкл', 'мноп', 'рсту', 'фхцч', 'шщъы', 'ьэюя')"
+      />
+      
+        <xsl:variable
+        name="AmenitiesString"
+        select="AmenitiesString"
+      />
+      
+      
+        <Services>
+            <xsl:variable name="amenityStringHeader" select="AmenityStringHeader"/>
+            <xsl:variable name="TopType" select="TopAmenityHeader"> </xsl:variable>
+            
+            <xsl:variable name="AmenityType" select="AmenityHeader"> </xsl:variable>
+            
+            <xsl:for-each select="TopAmenityList/TopAmenityItem"> 
+            
+                 <xsl:variable name="information" select="."> </xsl:variable>
+                 <xsl:variable name="class" select="./@class"> </xsl:variable>
+                 
+                <Service>
+                    <xsl:choose>
+                        <xsl:when test="$class = 'active'">
+                            <xsl:value-of select="concat($TopType, '/', $information)"/>
+                        </xsl:when>
+                        <xsl:when test="$class = 'inactive'">
+                            <xsl:value-of select="concat($TopType, '/', $information, ' (absent)')"/>
+                        </xsl:when>
+                      </xsl:choose>
+                </Service>
+            </xsl:for-each>                 
+            <xsl:for-each select="AmenityList/AmenityItem"> 
+                <xsl:variable name="information" select="."> </xsl:variable>
+                <Service><xsl:variable name="TopType" select="TopAmenityHeader"> </xsl:variable>
+                    <xsl:variable name="OnReturn" select="concat($AmenityType, '/', concat(upper-case(substring($information,1,1)), substring(., 2), ' '[not(last())]))"></xsl:variable>
+                    <xsl:value-of select="normalize-space(translate($OnReturn, '/ ', '/'))"/>
+                </Service>
+            </xsl:for-each>
+            <xsl:for-each select="tokenize($AmenitiesString, ',')"> 
+                <Service>
+                    <xsl:variable name="ok" select="."> </xsl:variable>
+                    <xsl:variable name="OnReturn" select="normalize-space(concat($amenityStringHeader, '/', $ok))"> </xsl:variable>
+                    <xsl:value-of select="normalize-space(translate($OnReturn, '/ ', '/'))"/>
+                </Service>
+            </xsl:for-each>
+            <xsl:for-each select="AmenitiesFromHTML/div/div/div">
+                <xsl:variable name="name" select="h3/button/span[1]"> </xsl:variable>
+                <xsl:variable name="description" select="div"> </xsl:variable>
+                <xsl:variable name="attribut" select="@data-state"> </xsl:variable>
+                <xsl:variable name="ForCheck" select="normalize-space(translate($description, ' ', ''))"> </xsl:variable>
+                <xsl:if test="string-length(normalize-space($ForCheck)) &lt;= 30">
+                    <Service>
+                         <xsl:value-of select="translate(normalize-space(concat($name, '/', $description)), '/ ', '/')"/>
+                    </Service>
+                </xsl:if>
+            </xsl:for-each>
+        </Services>
+        <Descriptions>
+            <xsl:for-each select="AmenitiesFromHTML/div/div/div">
+                <xsl:variable name="name" select="h3/button/span[1]"> </xsl:variable>
+                <xsl:variable name="description" select="div"> </xsl:variable>
+                <xsl:variable name="attribut" select="@data-state"> </xsl:variable>
+                <xsl:variable name="ForCheck" select="normalize-space(translate($description, ' ', ''))"> </xsl:variable>
+                <xsl:if test="string-length(normalize-space($ForCheck)) &gt; 30">
+                    <Description>
+                        <xsl:attribute name="Title">
+                            <xsl:value-of select="$name"/>
+                        </xsl:attribute>
+                        <Text>
+                            <xsl:value-of select="normalize-space(translate($description, '&amp;', ''))"/>
+                        </Text>
+                    </Description>
+                </xsl:if>
+                    
+            </xsl:for-each>
+        </Descriptions>
+    </xsl:template>
+</xsl:transform>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <xsl:variable name="name" select="h3/button/span"> </xsl:variable>
+                <xsl:variable name="description" select="div"> </xsl:variable>
+                <xsl:variable name="attribut" select="@data-state"> </xsl:variable>
+                Значение атрибута
+                <xsl:value-of select="$attribut"/>
+                Начальный текст:
+                <xsl:value-of select="$description"/>
+                Полсе удаления пробелов
+                <xsl:variable name="ForCheck" select="normalize-space(translate($description, ' ', ''))"> </xsl:variable>
+                <xsl:value-of select="$ForCheck"/>
+                Итоговое количество символов:
+                <xsl:value-of select="string-length(normalize-space($ForCheck))"/>
