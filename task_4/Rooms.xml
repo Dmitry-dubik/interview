@@ -1,0 +1,300 @@
+<RoomList>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="1SB">1 SOFABED ONLY - PARLOR ROOM</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Sofabed Parlor Room Living Area, Couch Facing TV" src="https://www.hilton.com/im/en/SNACCDT/1111139/024-hilton-double-tree-000-2175-6-7-8-9real-estate01.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>The Junior Parlor Suite is 764 sq. ft. and includes deluxe room amenities plus a refrigerator, microwave, bathrobes, and scenic city views. This non-smoking suite features a Sweet Dreams by DoubleTree king-sized bed. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Mini refrigerator</li>
+					<li>42-inch HDTV</li>
+					<li>Air conditioning</li>
+					<li>Hairdryer</li>
+					<li>Bathrobe</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="2DBCVW">2 DOUBLE BEDS PREM RM - HIGH FLOOR - CITY VW</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Two Sweet Dreams by DoubleTree Double Beds Facing TV" src="https://www.hilton.com/im/en/SNACCDT/1111154/026-hilton-double-tree-000-2195-6-7-8-9real-estate01.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>Newly renovated, 2 Double Beds- Premium level room, WiFi, bathrobes upon request, and scenic city views. This room features two Sweet Dreams double beds. These plush, pillow-top beds boast triple-sheeted down blankets and are accented by five jumbo down pillows.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Iron</li>
+					<li>Iron/ironing board</li>
+					<li>Air conditioning</li>
+					<li>Complimentary Remote Printing</li>
+					<li>High Speed Internet Access</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="2DBD">2 DOUBLE BEDS- DELUXE</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Guest Room with Two Beds and HDTV" src="https://www.hilton.com/im/en/SNACCDT/8678166/000-3503.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>The spacious work area includes a desk and available WiFi. Print from the comfort of your guest room with our complimentary Printer-On solution. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability. The bathroom features a granite countertop, shower/tub combination, and curved shower rod. Combed-cotton terry and deluxe bath products further enhance your experience. For your convenience, this well-appointed room also features a hairdryer, coffeemaker with coffee, iron with ironing board, two dual-line phones with dataports, and digital thermostat.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Mini refrigerator</li>
+					<li>42-inch HDTV</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>Microwave</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="1KB">1 KING BED</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="King Bedroom" src="https://www.hilton.com/im/en/SNACCDT/2215421/dta-rm1-24381.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>This non-smoking room features a Sweet Dreams by DoubleTree king-sized bed. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows. Relax while viewing the 42-inch HDTV with cable, premium movie selections. The spacious work area includes a desk and available WiFi. Print from the comfort of your guest room with our complimentary Printer-On solution. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Sleeps 3</li>
+					<li>42-inch HDTV</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>Sweet Dreams Sleep Experience</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="2DB">2 DOUBLE BEDS</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Double Bedroom" src="https://www.hilton.com /im/en/SNACCDT/2217712/dta-rm2-24459l.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>This non-smoking room features two Sweet Dreams by DoubleTree double beds. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows.
+Relax while viewing the 42-inch HDTV with cable, premium movie selections. The spacious work area includes a desk and available WiFi. Print from the comfort of your guest room with our complimentary Printer-On solution. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability.
+The bathroom features a granite countertop, shower/tub combination and curved shower rod. Combed-cotton terry and deluxe bath products further enhance your experience. For your convenience, this well-appointed room also features a hairdryer, coffeemaker with coffee, iron with ironing board, two dual-line phones with dataports and digital thermostat.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Sleeps 4</li>
+					<li>42-inch HDTV</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>Sweet Dreams Sleep Experience</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="1KPS">1 KING PRESIDENTIAL SUITE - HIGH FLOOR</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="King Guestroom Bedroom" src="https://www.hilton.com/im/en/SNACCDT/10129873/000-3470.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>Relax or entertain guests in this 900 sq. ft. suite with separate living room and dining area. It includes full breakfast daily, wet bar with refrigerator, microwave, secured elevator access and premium views. Breakfast is included to all registered adults on reservation. Kids under 5 years old eat free. This non-smoking suite features a Sweet Dreams by DoubleTree king-sized bed. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows.
+
+Relax while viewing the two 42-inch HDTVs with cable, premium movie selections and Nintendo games. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability. WiFi is available.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Hairdryer</li>
+					<li>Complimentary Remote Printing</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>High Speed Internet Access</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="2DB">2 DOUBLE BEDS</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Double Bedroom" src="https://www.hilton.com/im/en/SNACCDT/2217712/dta-rm2-24459l.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>This non-smoking room features two Sweet Dreams by DoubleTree double beds. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows.
+Relax while viewing the 42-inch HDTV with cable, premium movie selections. The spacious work area includes a desk and available WiFi. Print from the comfort of your guest room with our complimentary Printer-On solution. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability.
+The bathroom features a granite countertop, shower/tub combination and curved shower rod. Combed-cotton terry and deluxe bath products further enhance your experience. For your convenience, this well-appointed room also features a hairdryer, coffeemaker with coffee, iron with ironing board, two dual-line phones with dataports and digital thermostat.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Sleeps 4</li>
+					<li>42-inch HDTV</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>Sweet Dreams Sleep Experience</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="2DBCVW">2 DOUBLE BEDS PREM RM - HIGH FLOOR - CITY VW</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="Two Sweet Dreams by DoubleTree Double Beds Facing TV" src="https://www.hilton.com/im/en/SNACCDT/1111154/026-hilton-double-tree-000-2195-6-7-8-9real-estate01.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>Newly renovated, 2 Double Beds- Premium level room, WiFi, bathrobes upon request, and scenic city views. This room features two Sweet Dreams double beds. These plush, pillow-top beds boast triple-sheeted down blankets and are accented by five jumbo down pillows.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Iron</li>
+					<li>Iron/ironing board</li>
+					<li>Air conditioning</li>
+					<li>Complimentary Remote Printing</li>
+					<li>High Speed Internet Access</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+	<div class="roomItem">
+		<h3 class="roomItemName" roomCode="1KPS">1 KING PRESIDENTIAL SUITE - HIGH FLOOR</h3>
+		<div class="roomItemInfo">
+			<picture>
+				<img alt="King Guestroom Bedroom" src="https://www.hilton.com/im/en/SNACCDT/10129873/000-3470.jpg" width="320" height="173" data-testid="responsiveImageImg"/>
+			</picture>
+			<div class="description">
+				<h4>Description</h4>
+				<p>Relax or entertain guests in this 900 sq. ft. suite with separate living room and dining area. It includes full breakfast daily, wet bar with refrigerator, microwave, secured elevator access and premium views. Breakfast is included to all registered adults on reservation. Kids under 5 years old eat free. This non-smoking suite features a Sweet Dreams by DoubleTree king-sized bed. This plush, pillow-top bed boasts a triple-sheeted down blanket and is accented by five jumbo down pillows.
+
+Relax while viewing the two 42-inch HDTVs with cable, premium movie selections and Nintendo games. Enjoy your favorite tunes with our AM/FM digital clock radio with MP3 capability. WiFi is available.</p>
+			</div>
+			<div class="amenityList">
+				<h4>Comfort Amenities</h4>
+				<ul>
+					<li>Hairdryer</li>
+					<li>Complimentary Remote Printing</li>
+					<li>Air conditioning</li>
+					<li>Clock Radio w/ MP3 Connection</li>
+					<li>High Speed Internet Access</li>
+				</ul>
+			</div>			
+		</div>
+	</div>
+</RoomList>
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+    <xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+    <xsl:strip-space elements="*"/>
+    <xsl:template match="/RoomList">
+        <GuestRooms>
+            <xsl:for-each select="//div[@class='roomItem']">
+                <xsl:variable name="roomName" select="h3"/>
+                <xsl:variable name="roomCode" select="h3/@roomCode"/>
+                <xsl:attribute name="Code">
+                      <xsl:value-of select="$roomCode"/>
+                </xsl:attribute>
+            </xsl:for-each>
+        </GuestRooms>
+    </xsl:template>
+</xsl:transform>
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+    <xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+    
+    <xsl:template match="/">
+    <GuestRooms>
+        <xsl:apply-templates select="//RoomList/div[not(h3 = preceding-sibling::div/h3)]"/>
+    </GuestRooms>
+   </xsl:template>
+   
+    <xsl:template match="div">
+        <xsl:variable name="roomName" select="h3"/>
+        <xsl:variable name="roomCode" select="h3/@roomCode"/>
+        <xsl:variable name="imgDiscription" select="div/picture/img/@alt"/>
+        <xsl:variable name="discriptionText" select="div/div[@class='description']/p"/>
+        <xsl:variable name="imgLang" select="div/picture/img/@src"/>
+        
+        <ok>
+            <xsl:value-of select="substring-before(substring-after(substring-after($imgLang, 'https://www.hilton.com/'), '/'), '/')"/>
+        </ok>
+            <GuestRoom>
+                <xsl:attribute name="Code">
+                    <xsl:value-of select="$roomCode"/>
+                </xsl:attribute>
+                <xsl:attribute name="RoomTypeName">
+                    <xsl:value-of select="$roomName"/>
+                </xsl:attribute>
+                <Amenities>
+                    <xsl:for-each select="div/div/ul/li">
+                        <xsl:variable name="serviceName" select="."/>
+                        <Amenity>
+                            <DescriptiveText>
+                                <xsl:value-of select="concat('Services and equipment/', $serviceName)"/>
+                            </DescriptiveText>
+                        </Amenity>
+                    </xsl:for-each>
+                </Amenities>
+                <MultimediaDescriptions>
+                    <xsl:variable name="URL" select="div/picture/img/@src"/>
+                    <MultimediaDescription>
+                        <ImageItems>
+                            <ImageItem>
+                                <ImageFormat>
+                                    <URL>
+                                        <xsl:value-of select="$URL"/>
+                                    </URL>
+                                </ImageFormat>
+                            </ImageItem>
+                        </ImageItems>
+                    </MultimediaDescription>
+                    <MultimediaDescription>
+                        <TextItems>
+                            <TextItem>
+                                <xsl:variable name="discriptionName" select="div/div[@class='description']/h4"/>
+                                <xsl:attribute name="Title">
+                                    <xsl:value-of select="$discriptionName"/>
+                                </xsl:attribute>
+                                <Description>
+                                    <xsl:value-of select="$discriptionText"/>
+                                </Description>
+                            </TextItem>
+                        </TextItems>
+                    </MultimediaDescription>
+                </MultimediaDescriptions>
+            </GuestRoom>
+    </xsl:template>
+</xsl:transform>
+
